@@ -1,2 +1,4 @@
 Hello git!!
 i love git!
+プルリクエストの練習
+ブランチの練習中！
